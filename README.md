@@ -1,9 +1,8 @@
-# DATA 400 Final Project  
-## Pre- vs Post-COVID Job Market Shifts in Data Scientist Roles
+# Pre- vs Post-COVID Job Market Shifts in Data Scientist Roles
 
 ### Authors
 Johnny Nguyen and Melanie Duong  
-DATA 400 – Philosophy of Data / Data Analytics  
+DATA 400 – Data Analytics Capstone
 Dickinson College
 
 ---
