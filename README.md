@@ -121,17 +121,15 @@ Visualizations such as time-series plots, bar charts, and word clouds were used 
 
 ## Files in This Repository
 
-- `JobMarket_PrePostCOVID_Project_FINAL_FULL.ipynb`  
-  Complete Jupyter Notebook containing data cleaning, analysis, visualizations, and modeling
+- `Pre_Post_COVID_Job_Market_Project.pdf`  
+  Final project report/presentation summarizing the analysis, findings, and interpretations.
 
-- `data_scientist_united_states_job_postings_jobspikr.csv`  
-  Pre-COVID job postings dataset (2018–2019)
+- `README.md`  
+  Project overview, methodology, and key findings.
 
-- `gsearch_jobs.csv`  
-  Post-COVID job postings dataset (2022–2025)
+## Note on Data and Notebook
 
-- `DATA 400 - Final Project.pdf`  
-  Final presentation slides summarizing findings and interpretations
+The original datasets and full Jupyter Notebook are not included in this repository because the dataset files are too large for GitHub upload. The PDF contains the final summarized results of the analysis.
 
 ---
 
